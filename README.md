@@ -1,4 +1,4 @@
-# BIO-NLP-Assignment-1
+# Reddit COVID19 Symptom Detector
 All files associated with Bio-NLP Assignment 1 (COVID Symptom Surveillance) 
 
 The code for this project is in Annotator_System_Code.py.
